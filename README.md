@@ -1,11 +1,16 @@
 # IT Helpdesk Ticket Tracker
 
 **Assignment 1: Client-side web application**
+
 **Name:** Wasi Ullah
+
 **CMS:** 517525
+
 **SECTION:** SE-15-B
+
 **Assigned idea:** #33 IT Helpdesk Ticket Tracker
-**Live app:** _paste your GitHub Pages URL here_
+
+**Live app:** [help desk](https://pakiwasi.github.io/web_engg_ass_1)
 
 A responsive, dark-themed helpdesk. Requesters report IT problems and follow their progress. Technicians triage, assign and update tickets. It uses semantic HTML, CSS and vanilla JavaScript only, with no backend, framework or build step.
 
